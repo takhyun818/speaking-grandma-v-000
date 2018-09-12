@@ -1,9 +1,5 @@
 # Write a speak_to_grandma method.
 def speak_to_grandma
-  if(speak_to_grandma.upcase)
-    puts "NO, NOT SINCE 1938!"
-    speak_to_grandma = gets.strip
-  end
 end
 
 # Whatever you say to grandma, she should respond with
