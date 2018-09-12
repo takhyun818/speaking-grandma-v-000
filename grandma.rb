@@ -6,7 +6,6 @@ def speak_to_grandma(phrase)
     return "I LOVE YOU TOO PUMPKIN!"
 else
   return "No, NOT SINCE 1938!"
-  
 end
 
 # Whatever you say to grandma, she should respond with
